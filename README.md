@@ -14,6 +14,9 @@ A personal AI agent for Windows, built on [Microsoft Semantic Kernel](https://gi
 - **Scheduler** — create cron-based scheduled prompts that Alfred executes automatically
 - **Persistent chat history** — full conversation context is maintained for the duration of a session
 
+##Screenshot
+****<img width="1600" height="499" alt="image" src="https://github.com/user-attachments/assets/bb9b26c2-d33e-422a-8fe7-984235a2692e" />
+
 ## Architecture
 
 ```
