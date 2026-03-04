@@ -1,0 +1,17 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# .NET user secrets are stored outside the repo — keep appsettings.json clean
+# (user secrets live in %APPDATA%\Microsoft\UserSecrets\)
+
+# Rider / JetBrains
+.idea/
+
+# OS
+Thumbs.db
+desktop.ini
