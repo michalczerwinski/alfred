@@ -60,7 +60,7 @@ Alfred.slnx
 ### 1. Clone and build
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/michalczerwinski/alfred.git
 cd Alfred
 dotnet build
 ```
