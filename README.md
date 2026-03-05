@@ -1,6 +1,8 @@
 # Alfred
 
-A personal AI agent for Windows, built on [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) with an [OpenRouter](https://openrouter.ai) backend. Alfred acts as your digital butler — accepting commands from the console or Telegram (including voice messages), autonomously calling tools, and keeping you informed.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+A personal AI agentfor Windows, built on [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) with an [OpenRouter](https://openrouter.ai) backend. Alfred acts as your digital butler — accepting commands from the console or Telegram (including voice messages), autonomously calling tools, and keeping you informed.
 
 ## Features
 

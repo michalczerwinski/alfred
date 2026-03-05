@@ -6,6 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <UserSecretsId>ee3211f4-dcd6-492c-a10f-b4a48f71e3bd</UserSecretsId>
+    <Authors>Michał Czerwiński</Authors>
+    <Copyright>Copyright © 2026 Michał Czerwiński</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
